@@ -50,3 +50,7 @@ Suivez les étapes ci-dessous pour installer et configurer le projet sur votre m
 3. **Vérifier les logs**
 
    - Utilisez la fenêtre `Logcat` dans Android Studio pour voir les logs de l'application en temps réel. Cela peut vous aider à diagnostiquer et résoudre les problèmes éventuels.
+  
+   # II - Execution de l'application STANIA Mobile APP
+
+   <img src="captures3/c1.PNG">
