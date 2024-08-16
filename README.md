@@ -1,7 +1,7 @@
 
-# STANIA Mobile Ap
+# STANIA Mobile App
 
-Une application Android du Bt Sportif
+Une application Android du Bet Sportif
 
 ## Prérequis
 
@@ -20,7 +20,7 @@ Suivez les étapes ci-dessous pour installer et configurer le projet sur votre m
    Clonez le dépôt GitHub sur votre machine locale en utilisant la commande suivante dans votre terminal :
 
    ```bash
-   git clone https://github.com/nom_utilisateur/nom_du_projet.git
+   git clone https://github.com/nom_utilisateur/STANIA Mobile App.git
 
  
 2. **Ouvrir le projet dans Android Studio**
@@ -53,4 +53,16 @@ Suivez les étapes ci-dessous pour installer et configurer le projet sur votre m
   
    # II - Execution de l'application STANIA Mobile APP
 
-   <img src="captures3/c1.PNG">
+   <img src="captures3/c6.jpg">
+   <br>
+    <img src="captures3/c2.jpg">
+    <br>
+     <img src="captures3/c3.jpg">
+     <br>
+      <img src="captures3/c4.jpg">
+      <br>
+       <img src="captures3/c5.jpg">
+       <br>
+        <img src="captures3/c1.jpg">
+        <br>
+         <img src="captures3/c7.jpg">
